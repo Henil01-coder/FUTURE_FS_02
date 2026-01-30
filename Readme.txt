@@ -24,6 +24,6 @@ Password: 123987654
 **********Credential for user panel**********
 
 Username: jh123@gmail.com
-Password: Jadav123
+Password: John@123
 
 or Register a new user.
